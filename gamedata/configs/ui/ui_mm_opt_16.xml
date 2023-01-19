@@ -64,7 +64,7 @@
 				</text_color>
 			</button>
       
-			<button x="193" y="20" width="95" height="44" id="gameplay" stretch="1">
+			<button x="194" y="20" width="95" height="44" id="gameplay" stretch="1">
         <texture>ui_button_tablist</texture>
         <text font="graffiti19" align="c">ui_mm_gameplay</text>
         <text_color>
@@ -74,7 +74,7 @@
         </text_color>
       </button>
 
-      <button x="280" y="20" width="95" height="44" id="controls" stretch="1">
+      <button x="291" y="20" width="95" height="44" id="controls" stretch="1">
 				<texture>ui_button_tablist</texture>
 				<text font="graffiti19" align="c">ui_mm_controls</text>
 				<text_color>
